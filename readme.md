@@ -2,4 +2,4 @@
 
 ### Demo
 
-![demo]()
+![demo](https://raw.githubusercontent.com/chandrakumarreddy/tinder-swipe-animation/master/demo.gif)
